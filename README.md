@@ -41,8 +41,7 @@ Excel Automation
 
 The workbook is structured so that changing the input parameters automatically updates the downstream engineering calculations.
 ## Data used
-- <a href="https://github.com/Rahuldhandugudum/steam-piping-pressure-drop-analysis/blob/main/Automated%20Steam%20Piping%20Pressure%20Drop%20Analysis.xlsx">Data viwe</a>
-
+- <a href="https://github.com/Rahuldhandugudum/steam-piping-pressure-drop-analysis/blob/main/Automated%20Steam%20Piping%20Pressure%20Drop%20Analysis.xlsx">view Excel Calculations</a>
 
 The calculation flow is:
 
@@ -55,7 +54,7 @@ Structured calculation tables
 Conditional logic
 Engineering calculations
 ## Piping Parameters used
-- <a href="https://github.com/Rahuldhandugudum/steam-piping-pressure-drop-analysis/blob/main/Piping%20isometric%20sample.pdf">Piping viwe</a>
+- <a href="https://github.com/Rahuldhandugudum/steam-piping-pressure-drop-analysis/blob/main/Piping%20isometric%20sample.pdf">view piping</a>
 
 Data organization
 Charts/visualization
